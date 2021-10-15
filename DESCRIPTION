@@ -1,0 +1,14 @@
+Package: Care
+Title:  Characterize oncology patient experiences in the OMOP Common Data Model
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Adam",
+           family = "Black",
+           role = c("aut", "cre"),
+           email = "adam.black@odysseusinc.com")
+Description: Characterize oncology patient experiences in the OMOP Common Data Model
+License: Apache License (>= 2)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
