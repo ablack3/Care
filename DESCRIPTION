@@ -1,5 +1,5 @@
 Package: Care
-Title:  Characterize oncology patient experiences in the OMOP Common Data Model
+Title: Characterize oncology patient experiences in the OMOP Common Data Model
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Adam",
@@ -12,3 +12,6 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
